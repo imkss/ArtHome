@@ -37,9 +37,10 @@ To run the demo follow these steps:
     SECRET_KEY=<SECRET_PHRASE>
     PRIVATE_KEY=<YOUR_PRIVATE_KEY>
     ```
-4. Open Terminal and type `ganache-cli --v`
-5. Open new Terminal and type `truffle migrate`
-6. Run the app using `npm start run`
+4. Use Node version 16.18.1
+5. Open Terminal and type `ganache-cli --v`
+6. Open new Terminal and type `truffle migrate`
+7. Run the app using `npm start run`
 <br/>
 
 
