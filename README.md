@@ -38,9 +38,11 @@ To run the demo follow these steps:
     PRIVATE_KEY=<YOUR_PRIVATE_KEY>
     ```
 4. Use Node version 16.18.1
-5. Open Terminal and type `ganache-cli --v`
-6. Open new Terminal and type `truffle migrate`
-7. Run the app using `npm start run`
+5. npm install -g truffle
+6. npm install ganache --global
+7. Open Terminal and type `ganache-cli --v`
+8. Open new Terminal and type `truffle migrate`
+9. Run the app using `npm start run`
 <br/>
 
 
